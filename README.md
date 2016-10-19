@@ -1,3 +1,3 @@
-Bei Liu's Blog
+Bei Liu's Website
 ====================
 
