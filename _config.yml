@@ -1,0 +1,8 @@
+title: Shepherd87.github.io
+description: personal blog
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-dinky
+
+gems:
+  - jekyll-mentions
