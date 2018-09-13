@@ -1,13 +1,13 @@
 # Welcome to Bei Liu's personal website.
 I am currently a postdoc at the University of North Carolina at Chapel Hill. I am a dedicated ***microscopist*** with a great passion on engineering ***biosensors*** and ***optogenetic*** tools. The purpose of this site is to provide useful information related to my research interests.
 
-If you are interested in my literature sharing, please go [here](../pages/literatures.md).
+If you are interested in my literatures sharing, please go [here](../pages/literatures.md).
 
-Microscopy techniques | Biotech | Probes | Computational Biology
-----------------------|---------|--------|----------------------
-1.  [Single molecule imaging](#single-molecule-imaging) | 1. [Engineering biosensors](#biosensors)   |  1. [Fluorescent proteins](#fluorescent-proteins) | 1. ---
-2.  [Superresolution imaging](#superresolution-imaging) | 2. [Optogenetic tools](#optogenetic-tools) | 2. [Organic dyes, quantum dots](#organic-dyes) | 2. ---
-3.  [Light-sheet imaging](#light-sheet-imaging)         | 3. --- | 3. [*in vivo* labeling](#in-vivo-labeling) | 3. ---
+| Microscopy  |  Biotech.  | Probes | Computational Bio.
+|:------------: |:----------:|:--------:|:-------------------:|
+[Single molecule imaging](#single-molecule-imaging) | [Biosensors](#biosensors)   | [Fluorescent proteins](#fluorescent-proteins) | [SM data processing](#SM-data-processing)
+[Superresolution imaging](#superresolution-imaging) | [Optogenetics](#optogenetic-tools) | [Organic dyes, quantum dots](#organic-dyes) | [FRET biosensor](#FRET-biosensor-data-processing)
+[Light-sheet imaging](#light-sheet-imaging)         | --- | [*in vivo* labeling](#in-vivo-labeling) | ---
    
 
 ----------
@@ -22,7 +22,7 @@ Microscopy techniques | Biotech | Probes | Computational Biology
   Single molecule bleaching | oligomerization states
   PALM/STORM                | superresolution
 
-  Generally, SMI data processing is consit of four steps: 1) picking molecules from raw movie; 2) linking correspondent molecules on consecutive frames; 3) rendering tracking/reconstruction results; 4) post-analysis.
+  Generally, SMI data processing consists of four steps: 1) picking molecules from raw movie; 2) linking correspondent molecules on consecutive frames; 3) rendering tracking/reconstruction results; 4) post-analysis.
 
 - Useful links
 - Refs
@@ -35,7 +35,7 @@ Microscopy techniques | Biotech | Probes | Computational Biology
 - Useful links
 - Refs
 
-# Biotech
+# Biotech.
 ### biosensors
 - Introduction
 - Useful links
@@ -55,6 +55,19 @@ Microscopy techniques | Biotech | Probes | Computational Biology
     1. [FPs database](https://www.fpbase.org/)
 ### organic-dyes
 
-# in-vivo-labeling
-### self-labeling-enzymes
-### unnature-amino-acid
+### in-vivo-labeling
+- **self-labeling-enzymes**
+  
+  SNAP, Halo, Clip-tag
+
+- **unnature-amino-acid**
+  
+  UAA
+# Computational Bio.
+### SM-data-processing
+1. Picking molecule from raw movie
+2. Localization methods
+3. Liking methods
+4. Post-analysis: diffusion 
+5. Post-analysis: clustering
+### FRET-biosensor-data-processing
