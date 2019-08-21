@@ -1,5 +1,9 @@
-# Welcome to Bei Liu's personal website.
-I am currently a postdoc at the University of North Carolina at Chapel Hill. I am a dedicated ***microscopist*** with a great passion on engineering ***biosensors*** and ***optogenetic*** tools. The purpose of this site is to provide useful information related to my research interests. If you are interested in my literatures sharing, please go [here](https://github.com/shepherd87/shepherd87.github.io/blob/master/pages/literatures.md).
+# **Bei liu** , *PhD*
+I am a research assistant professor at the University of North Carolina at Chapel Hill. I am a dedicated ***microscopist*** with a great passion on engineering ***biosensors*** and ***optogenetic*** tools. I am also interested in image processing/analysis, particularly with deep learning approaches. 
+
+The purpose of this site is to provide useful information related to my research interests. If you are interested in my literatures sharing, please go [here](https://github.com/shepherd87/shepherd87.github.io/blob/master/pages/literatures.md).
+
+
 
 | Microscopy  |  Biotech.  | Probes | Computational Bio. | Deep learning
 |:------------: |:----------:|:--------:|:-------------------:|:-------------------------:
