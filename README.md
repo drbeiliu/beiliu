@@ -1,4 +1,4 @@
 Bei Liu's Website
 ====================
 
-please go [here](http://beiliu.github.io/)
+please go [here](http://shepherd87.github.io/beiliu/)
